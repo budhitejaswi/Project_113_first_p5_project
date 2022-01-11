@@ -1,0 +1,19 @@
+canvas {
+    display: block;
+    border:1px solid black;
+    background-color: rgb(233, 233, 233);
+  }
+
+body{
+  background-color: rgb(187, 154, 187);
+  text-align: center;
+}
+h3{
+  border:solid;
+  color:rgb(58, 43, 58);
+  font-family: fantasy;
+  font-size:45px;
+  background-color: rgb(250, 255, 209);
+  border-radius: 35px;
+  border-color: rgb(39, 36, 59);
+}
